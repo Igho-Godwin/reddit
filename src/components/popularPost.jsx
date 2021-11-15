@@ -45,7 +45,7 @@ const PopularPost = () => {
             </div>
           </div>
         </Col>
-        <Col sm={4}></Col>
+        <Col className="background-color-white" sm={4}>Advert</Col>
       </Row>
   );
 };

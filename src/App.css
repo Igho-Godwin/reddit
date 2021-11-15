@@ -241,6 +241,10 @@ body {
   padding:5px;
 }
 
+.background-color-white{
+  background-color:white;
+}
+
 @media only screen and (max-width: 768px) {
   .h-b{
     display:none;
@@ -257,6 +261,7 @@ body {
     margin-right: 10px;
   }
 }
+
 
 
 
