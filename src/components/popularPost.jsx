@@ -5,7 +5,7 @@ import {
   FaEllipsisH,
   FaSort,
 } from "react-icons/fa";
-import { Dropdown, Col, Row, Container } from "react-bootstrap";
+import { Dropdown, Col, Row} from "react-bootstrap";
 
 const PopularPost = () => {
   return (

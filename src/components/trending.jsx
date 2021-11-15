@@ -1,5 +1,5 @@
 import img1 from "./images/trendsImg1.jpeg";
-import { Button, Col, Row, Image} from 'react-bootstrap';
+import {  Col, Row, Image} from 'react-bootstrap';
 
 const Trends = () => {
   return (
